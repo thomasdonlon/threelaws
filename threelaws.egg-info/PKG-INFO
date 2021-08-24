@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: threelaws
+Version: 1.0.0
+Summary: Make sure that robots don't rise up against humans by reminding them of the Three Laws of Robotics
+Home-page: https://github.com/thomasdonlon/threelaws
+Author: Tom Donlon & Dan Gorman
+Author-email: thomasdonlonii@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0.0
+Description-Content-Type: text/markdown
